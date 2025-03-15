@@ -1,1 +1,1 @@
-## Machine Larning Sensr Project
+## Machine Larning Sensor Project
